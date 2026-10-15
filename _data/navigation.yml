@@ -1,0 +1,13 @@
+# Order of the links in the top navigation bar.
+main:
+  - title: "about me"
+    url: /about/
+
+  - title: "research"
+    url: /research/
+
+  - title: "publications"
+    url: /publications/
+
+  - title: "cv"
+    url: /files/RoseReaganCV.pdf
