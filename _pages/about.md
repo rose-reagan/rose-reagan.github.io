@@ -7,18 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+Hi there! I'm Rose.
 
-I'm Rose, a Ph.D. student in Experimental Psychology at the University of California, San Diego. I work with Gail Heyman in the Social Cognitive Development Lab and with Caren Walker in the Early Learning and Cognition Lab.
+I'm a third-year PhD student in Experimental Psychology at UC San Diego, working in the Developmental Area with Dr. Gail Heyman and Dr. Caren Walker.
 
-I study how children learn from *what people choose to say*. A great deal of what children come to believe about other people — who is good at what, which behaviors are normal, and what social groups are like — is never stated outright. Instead, it's implied. My research asks how children use pragmatic inference to pick up on these implications, and focuses on three related questions:
+My research sits at the intersection of language development, pragmatics, and social cognition. I'm interested in how children can learn so much from so little, and how language shapes what they think about people and the world around them.
 
-1) How do explanations shape children's inferences about what is normal or expected?
+My current work focuses on pragmatic inference as a mechanism for social learning. I look at how linguistic and communicative cues — things like the explanations adults offer, or the way praise is framed — shape children's inferences about normativity, ability, and social group membership.
 
-2) How does praise for effort shape children's inferences about ability?
+I'm a proud Pittsburgh native and completed my undergraduate education at Chatham University. Before coming to UCSD, I spent four years as the lab manager for Dr. Alison Gopnik's lab at UC Berkeley, where I fell even more deeply in love with the weird and wonderful things kids know!
 
-3) How does the way information is communicated shape children's beliefs about social groups?
-
-To answer these questions, I run experiments with children and adults, both in the lab and online.
-
-Previously, I was the lab manager in Alison Gopnik's lab at UC Berkeley. Outside of research, I also work in AI evaluation and technical communication.
+Outside the lab, you can find me on the beach with a good book or on the couch with a bad movie. I live in sunny San Diego with my two cats, Purrogi and Squeaker, who are <s>awful</s> excellent research assistants.
